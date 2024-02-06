@@ -1,3 +1,4 @@
 # TYCDETAILS
 
-NAME         ROLL NO
+NAME  hrman
+ROLL NO 35
