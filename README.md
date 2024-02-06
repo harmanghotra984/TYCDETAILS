@@ -1,3 +1,4 @@
 # TYCDETAILS
 
-NAME         ROLL NO
+NAME                ROLL NO
+harmanpreet singh   35
